@@ -1,6 +1,7 @@
 .idea/
 .gradle/
 build/
+sdk/
 obj/
 TMessagesProj/.cxx
 TMessagesProj/.cargo
@@ -13,5 +14,6 @@ test.py
 .settings
 .classpath
 History.md
+Nnngram.jks
 apks
 dprint.json
