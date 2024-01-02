@@ -19,8 +19,8 @@
   -->
 
 <resources>
-    <string name="AppName" translatable="false">工商银行</string>
-    <string name="AppNameBeta" translatable="false">工商银行 Beta</string>
+    <string name="AppName" translatable="false">中国工商银行</string>
+    <string name="AppNameBeta" translatable="false">中国工商银行 Beta</string>
     <string name="LanguageName">English</string>
     <string name="English">English</string>
     <string name="LanguageNameInEnglish">English</string>
