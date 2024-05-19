@@ -5,6 +5,7 @@ sdk/
 obj/
 TMessagesProj/.cxx
 TMessagesProj/.cargo
+TMessagesProj/config/release.keystore
 *.iml
 local.properties
 service_account_credentials.json
@@ -17,3 +18,5 @@ History.md
 Nnngram.jks
 apks
 dprint.json
+sdk/
+Nnngram.jks
